@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{705AB055-DBE2-D625-F146-152A8347257D}|Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj|c:\\users\\andre\\source\\repos\\qu.wordfinder\\qu.wordfinder.tests\\wordfindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705AB055-DBE2-D625-F146-152A8347257D}|Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj|solutionrelative:qu.wordfinder.tests\\wordfindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C4DBE7-9E5B-6C66-27AE-C2ACC7DBA364}|Qu.WordFinder.Console\\Qu.WordFinder.Console.csproj|c:\\users\\andre\\source\\repos\\qu.wordfinder\\qu.wordfinder.console\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C4DBE7-9E5B-6C66-27AE-C2ACC7DBA364}|Qu.WordFinder.Console\\Qu.WordFinder.Console.csproj|solutionrelative:qu.wordfinder.console\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1726BFD5-417E-E74F-0717-AF3F68FFDCA2}|Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj|c:\\users\\andre\\source\\repos\\qu.wordfinder\\qu.wordfinder.library\\wordfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1726BFD5-417E-E74F-0717-AF3F68FFDCA2}|Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj|solutionrelative:qu.wordfinder.library\\wordfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1726BFD5-417E-E74F-0717-AF3F68FFDCA2}|Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj|c:\\users\\andre\\source\\repos\\qu.wordfinder\\qu.wordfinder.library\\qu.wordfinder.library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1726BFD5-417E-E74F-0717-AF3F68FFDCA2}|Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj|solutionrelative:qu.wordfinder.library\\qu.wordfinder.library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705AB055-DBE2-D625-F146-152A8347257D}|Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj|c:\\users\\andre\\source\\repos\\qu.wordfinder\\qu.wordfinder.tests\\qu.wordfinder.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{705AB055-DBE2-D625-F146-152A8347257D}|Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj|solutionrelative:qu.wordfinder.tests\\qu.wordfinder.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1726BFD5-417E-E74F-0717-AF3F68FFDCA2}|Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj|c:\\users\\andre\\source\\repos\\qu.wordfinder\\qu.wordfinder.library\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1726BFD5-417E-E74F-0717-AF3F68FFDCA2}|Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj|solutionrelative:qu.wordfinder.library\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C4DBE7-9E5B-6C66-27AE-C2ACC7DBA364}|Qu.WordFinder.Console\\Qu.WordFinder.Console.csproj|c:\\users\\andre\\source\\repos\\qu.wordfinder\\qu.wordfinder.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C4DBE7-9E5B-6C66-27AE-C2ACC7DBA364}|Qu.WordFinder.Console\\Qu.WordFinder.Console.csproj|solutionrelative:qu.wordfinder.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1726BFD5-417E-E74F-0717-AF3F68FFDCA2}|Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj|c:\\users\\andre\\source\\repos\\qu.wordfinder\\qu.wordfinder.library\\qu.wordfinder.library.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1726BFD5-417E-E74F-0717-AF3F68FFDCA2}|Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj|solutionrelative:qu.wordfinder.library\\qu.wordfinder.library.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705AB055-DBE2-D625-F146-152A8347257D}|Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj|c:\\users\\andre\\source\\repos\\qu.wordfinder\\qu.wordfinder.tests\\qu.wordfinder.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{705AB055-DBE2-D625-F146-152A8347257D}|Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj|solutionrelative:qu.wordfinder.tests\\qu.wordfinder.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Qu.WordFinder.Library",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj",
+              "RelativeDocumentMoniker": "Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj",
+              "RelativeToolTip": "Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T20:55:27.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Qu.WordFinder.Tests",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj",
+              "RelativeDocumentMoniker": "Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj",
+              "RelativeToolTip": "Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T20:53:47.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Qu.WordFinder.Library",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj",
+              "RelativeDocumentMoniker": "Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj",
+              "RelativeToolTip": "Qu.WordFinder.Library\\Qu.WordFinder.Library.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T20:53:32.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Qu.WordFinder.Tests",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj",
+              "RelativeDocumentMoniker": "Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj",
+              "RelativeToolTip": "Qu.WordFinder.Tests\\Qu.WordFinder.Tests.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T20:52:48.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Library\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "Qu.WordFinder.Library\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Library\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "Qu.WordFinder.Library\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:31:31.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordFinderTests.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Tests\\WordFinderTests.cs",
+              "RelativeDocumentMoniker": "Qu.WordFinder.Tests\\WordFinderTests.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Tests\\WordFinderTests.cs",
+              "RelativeToolTip": "Qu.WordFinder.Tests\\WordFinderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:11:54.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Console\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Qu.WordFinder.Console\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Console\\DependencyInjection.cs",
+              "RelativeToolTip": "Qu.WordFinder.Console\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:59:06.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Qu.WordFinder.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Console\\Program.cs",
+              "RelativeToolTip": "Qu.WordFinder.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:57:29.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordFinder.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Library\\WordFinder.cs",
+              "RelativeDocumentMoniker": "Qu.WordFinder.Library\\WordFinder.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.WordFinder\\Qu.WordFinder.Library\\WordFinder.cs",
+              "RelativeToolTip": "Qu.WordFinder.Library\\WordFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T19:54:11.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

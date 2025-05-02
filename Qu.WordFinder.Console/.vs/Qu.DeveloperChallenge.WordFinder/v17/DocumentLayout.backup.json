@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\Qu.DeveloperChallenge.WordFinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F501FBEF-34A6-4F4B-86EC-43CE6220D68A}|Qu.DeveloperChallenge.WordFinder.csproj|c:\\users\\andre\\source\\repos\\qu.developerchallenge.wordfinder\\implementations\\wordfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F501FBEF-34A6-4F4B-86EC-43CE6220D68A}|Qu.DeveloperChallenge.WordFinder.csproj|solutionrelative:implementations\\wordfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F501FBEF-34A6-4F4B-86EC-43CE6220D68A}|Qu.DeveloperChallenge.WordFinder.csproj|c:\\users\\andre\\source\\repos\\qu.developerchallenge.wordfinder\\extensions\\debugextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F501FBEF-34A6-4F4B-86EC-43CE6220D68A}|Qu.DeveloperChallenge.WordFinder.csproj|solutionrelative:extensions\\debugextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F501FBEF-34A6-4F4B-86EC-43CE6220D68A}|Qu.DeveloperChallenge.WordFinder.csproj|c:\\users\\andre\\source\\repos\\qu.developerchallenge.wordfinder\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F501FBEF-34A6-4F4B-86EC-43CE6220D68A}|Qu.DeveloperChallenge.WordFinder.csproj|solutionrelative:extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F501FBEF-34A6-4F4B-86EC-43CE6220D68A}|Qu.DeveloperChallenge.WordFinder.csproj|c:\\users\\andre\\source\\repos\\qu.developerchallenge.wordfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F501FBEF-34A6-4F4B-86EC-43CE6220D68A}|Qu.DeveloperChallenge.WordFinder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F501FBEF-34A6-4F4B-86EC-43CE6220D68A}|Qu.DeveloperChallenge.WordFinder.csproj|c:\\users\\andre\\source\\repos\\qu.developerchallenge.wordfinder\\interfaces\\iwordfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F501FBEF-34A6-4F4B-86EC-43CE6220D68A}|Qu.DeveloperChallenge.WordFinder.csproj|solutionrelative:interfaces\\iwordfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DebugExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.DeveloperChallenge.WordFinder\\Extensions\\DebugExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\DebugExtensions.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.DeveloperChallenge.WordFinder\\Extensions\\DebugExtensions.cs",
+              "RelativeToolTip": "Extensions\\DebugExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:12:38.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.DeveloperChallenge.WordFinder\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.DeveloperChallenge.WordFinder\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:08:58.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWordFinder.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.DeveloperChallenge.WordFinder\\Interfaces\\IWordFinder.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IWordFinder.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.DeveloperChallenge.WordFinder\\Interfaces\\IWordFinder.cs",
+              "RelativeToolTip": "Interfaces\\IWordFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:01:00.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordFinder.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.DeveloperChallenge.WordFinder\\Implementations\\WordFinder.cs",
+              "RelativeDocumentMoniker": "Implementations\\WordFinder.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.DeveloperChallenge.WordFinder\\Implementations\\WordFinder.cs*",
+              "RelativeToolTip": "Implementations\\WordFinder.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:00:39.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Qu.DeveloperChallenge.WordFinder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Qu.DeveloperChallenge.WordFinder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:54:43.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
